@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|d:\\devfuture\\elfshockrpg\\elfshockrpg\\screens\\exitgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|solutionrelative:screens\\exitgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|d:\\devfuture\\elfshockrpg\\elfshockrpg\\characters\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|solutionrelative:characters\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5208C071-D7C7-40D2-B4BB-14B5AB046BC1}|..\\ElfshockTests\\ElfshockTests.csproj|d:\\devfuture\\elfshockrpg\\elfshocktests\\characters\\charactertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5208C071-D7C7-40D2-B4BB-14B5AB046BC1}|..\\ElfshockTests\\ElfshockTests.csproj|d:\\devfuture\\elfshockrpg\\elfshocktests\\characters\\monsterstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5208C071-D7C7-40D2-B4BB-14B5AB046BC1}|..\\ElfshockTests\\ElfshockTests.csproj|d:\\devfuture\\elfshockrpg\\elfshocktests\\gamestatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|d:\\devfuture\\elfshockrpg\\elfshockrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|d:\\devfuture\\elfshockrpg\\elfshockrpg\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|solutionrelative:gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|d:\\devfuture\\elfshockrpg\\elfshockrpg\\screens\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|solutionrelative:screens\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|d:\\devfuture\\elfshockrpg\\elfshockrpg\\screens\\ingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|solutionrelative:screens\\ingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|d:\\devfuture\\elfshockrpg\\elfshockrpg\\screens\\characterselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|solutionrelative:screens\\characterselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|d:\\devfuture\\elfshockrpg\\elfshockrpg\\helpers\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|solutionrelative:helpers\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|d:\\devfuture\\elfshockrpg\\elfshockrpg\\enums\\gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|solutionrelative:enums\\gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|d:\\devfuture\\elfshockrpg\\elfshockrpg\\data\\elfshockrpgdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|solutionrelative:data\\elfshockrpgdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|d:\\devfuture\\elfshockrpg\\elfshockrpg\\data\\repositories\\characterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|solutionrelative:data\\repositories\\characterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|d:\\devfuture\\elfshockrpg\\elfshockrpg\\data\\models\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|solutionrelative:data\\models\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|d:\\devfuture\\elfshockrpg\\elfshockrpg\\characters\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|solutionrelative:characters\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|d:\\devfuture\\elfshockrpg\\elfshockrpg\\characters\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|solutionrelative:characters\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|d:\\devfuture\\elfshockrpg\\elfshockrpg\\characters\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|solutionrelative:characters\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|d:\\devfuture\\elfshockrpg\\elfshockrpg\\characters\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|solutionrelative:characters\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|d:\\devfuture\\elfshockrpg\\elfshockrpg\\migrations\\elfshockrpgdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|solutionrelative:migrations\\elfshockrpgdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|d:\\devfuture\\elfshockrpg\\elfshockrpg\\migrations\\20250611092407_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|solutionrelative:migrations\\20250611092407_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|d:\\devfuture\\elfshockrpg\\elfshockrpg\\elfshockrpg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|solutionrelative:elfshockrpg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|d:\\devfuture\\elfshockrpg\\elfshockrpg\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{260AF7A7-359D-45CB-B4A5-668A17DA4CFC}|ElfshockRPG.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameStateTests.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockTests\\GameStateTests.cs",
+              "RelativeDocumentMoniker": "..\\ElfshockTests\\GameStateTests.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockTests\\GameStateTests.cs",
+              "RelativeToolTip": "..\\ElfshockTests\\GameStateTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:19:35.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MonstersTests.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockTests\\Characters\\MonstersTests.cs",
+              "RelativeDocumentMoniker": "..\\ElfshockTests\\Characters\\MonstersTests.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockTests\\Characters\\MonstersTests.cs",
+              "RelativeToolTip": "..\\ElfshockTests\\Characters\\MonstersTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:15:51.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharacterTests.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockTests\\Characters\\CharacterTests.cs",
+              "RelativeDocumentMoniker": "..\\ElfshockTests\\Characters\\CharacterTests.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockTests\\Characters\\CharacterTests.cs",
+              "RelativeToolTip": "..\\ElfshockTests\\Characters\\CharacterTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:53:01.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ElfshockRPG.csproj",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\ElfshockRPG.csproj",
+              "RelativeDocumentMoniker": "ElfshockRPG.csproj",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\ElfshockRPG.csproj",
+              "RelativeToolTip": "ElfshockRPG.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-12T08:29:37.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ElfshockRPGDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Migrations\\ElfshockRPGDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ElfshockRPGDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Migrations\\ElfshockRPGDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ElfshockRPGDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:52:09.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExitGame.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Screens\\ExitGame.cs",
+              "RelativeDocumentMoniker": "Screens\\ExitGame.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Screens\\ExitGame.cs",
+              "RelativeToolTip": "Screens\\ExitGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:51:44.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T10:22:30.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250611092407_InitialMigration.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Migrations\\20250611092407_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250611092407_InitialMigration.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Migrations\\20250611092407_InitialMigration.cs",
+              "RelativeToolTip": "Migrations\\20250611092407_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:24:07.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameCharacter.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Data\\Models\\GameCharacter.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\GameCharacter.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Data\\Models\\GameCharacter.cs",
+              "RelativeToolTip": "Data\\Models\\GameCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:49:42.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CharacterRepository.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Data\\Repositories\\CharacterRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\CharacterRepository.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Data\\Repositories\\CharacterRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\CharacterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:48:43.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ElfshockRPGDbContext.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Data\\ElfshockRPGDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ElfshockRPGDbContext.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Data\\ElfshockRPGDbContext.cs",
+              "RelativeToolTip": "Data\\ElfshockRPGDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:11:36.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\GameState.cs",
+              "RelativeDocumentMoniker": "GameState.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\GameState.cs",
+              "RelativeToolTip": "GameState.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:09:11.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Helpers\\InputHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\InputHelper.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Helpers\\InputHelper.cs",
+              "RelativeToolTip": "Helpers\\InputHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:08:44.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Characters\\Monster.cs",
+              "RelativeDocumentMoniker": "Characters\\Monster.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Characters\\Monster.cs",
+              "RelativeToolTip": "Characters\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:08:15.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Characters\\Mage.cs",
+              "RelativeDocumentMoniker": "Characters\\Mage.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Characters\\Mage.cs",
+              "RelativeToolTip": "Characters\\Mage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:14:28.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Characters\\Warrior.cs",
+              "RelativeDocumentMoniker": "Characters\\Warrior.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Characters\\Warrior.cs",
+              "RelativeToolTip": "Characters\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:07:52.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Characters\\Character.cs",
+              "RelativeDocumentMoniker": "Characters\\Character.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Characters\\Character.cs",
+              "RelativeToolTip": "Characters\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:26:52.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InGame.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Screens\\InGame.cs",
+              "RelativeDocumentMoniker": "Screens\\InGame.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Screens\\InGame.cs",
+              "RelativeToolTip": "Screens\\InGame.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwFIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:07:37.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CharacterSelect.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Screens\\CharacterSelect.cs",
+              "RelativeDocumentMoniker": "Screens\\CharacterSelect.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Screens\\CharacterSelect.cs",
+              "RelativeToolTip": "Screens\\CharacterSelect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:07:30.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Screens\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Screens\\MainMenu.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Screens\\MainMenu.cs",
+              "RelativeToolTip": "Screens\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:07:22.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameScreen.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Enums\\GameScreen.cs",
+              "RelativeDocumentMoniker": "Enums\\GameScreen.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Enums\\GameScreen.cs",
+              "RelativeToolTip": "Enums\\GameScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:06:34.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:28:11.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Archer.cs",
+              "DocumentMoniker": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Characters\\Archer.cs",
+              "RelativeDocumentMoniker": "Characters\\Archer.cs",
+              "ToolTip": "D:\\DevFuture\\ElfshockRPG\\ElfshockRPG\\Characters\\Archer.cs",
+              "RelativeToolTip": "Characters\\Archer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:26:54.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
